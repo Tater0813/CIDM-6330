@@ -54,7 +54,7 @@ class NewVisitorTest(unittest.TestCase):
         self.fail('Finish the test!')
 
         # The page updates again, and now shows both items on her list
-        [...]
+        
 
 
 if __name__ == '__main__':  
